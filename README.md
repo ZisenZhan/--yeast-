@@ -1,5 +1,5 @@
 ### 简介
-我写了一篇关于多标签分类的综述论文"A Review on Multi-Label Learning Algorithms"的总结与反思，[详见](A Summary and Reflection on 'A Review of Multi-Label Learning Algorithms'.md)
+我写了一篇关于多标签分类的综述论文"A Review on Multi-Label Learning Algorithms"的总结与反思，[详见此链接](A_Summary_and_Reflection_on_'A_Review_of_Multi-Label_Learning_Algorithms'.md)
 
 ### 数据集
 酵母数据集包含2417个条目，涵盖微阵列表达数据和系统发育档案。每个基因有103个描述性特征，并与多个功能类别相关联。在这个数据集的版本中，共有14个不同的功能类别，一个基因可以属于多个功能类别。数据集以CSV格式存储，位于数据存储库的“data”文件夹中。
